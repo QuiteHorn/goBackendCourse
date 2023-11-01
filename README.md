@@ -1,5 +1,1 @@
-# copytrader
-# copytrader
-# copytrader
-# copytrader
-# copytrader
+# GoCourse
